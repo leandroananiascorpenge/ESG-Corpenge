@@ -1,0 +1,5 @@
+{
+  "name": "ESG Corpenge",
+  "description": "An application for ESG control in your company, allowing you to monitor monthly consumption indicators such as Water, Energy, and Paper. It features a dashboard with annual evolution graphs and allows for registering indicators with targets and recording monthly consumption.",
+  "requestFramePermissions": []
+}
